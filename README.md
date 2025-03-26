@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning data structure
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me my linkedin acct :- www.linkedin.com/in/eshi-nagendra-222275181
+- 📫 How to reach me my linkedin acct :- www.linkedin.com/in/eshi-nagendra
 
 <!---
 eshi2095/eshi2095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
